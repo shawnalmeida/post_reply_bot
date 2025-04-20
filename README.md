@@ -35,8 +35,8 @@ post_reply_bot/
 <h2>🛠️ Setup & Installation</h2>
 
 <h3>1. Clone the repository</h3>
-<pre><code>git clone https://github.com/your-username/social-reply-generator.git
-cd social-reply-generator
+<pre><code>git clone https://github.com/shawnalmeida/post_reply_bot.git
+cd post_reply_bot
 </code></pre>
 
 <h3>2. Create a virtual environment</h3>
