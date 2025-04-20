@@ -108,7 +108,5 @@ source venv/bin/activate   (on macOS/Linux)
 </table>
 
 
-<h2>🧑‍💻 Author</h2>
-<p>Made with ❤️ by <strong>[Your Name]</strong></p>
-
+<h2>🧑‍💻 Shawn Almeida</h2>
 <hr/>
