@@ -1,0 +1,8 @@
+accelerate
+bitsandbytes  
+fastapi
+uvicorn
+pymongo
+python-dotenv
+transformers
+torch
